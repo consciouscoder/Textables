@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Modules/RCTDevMenu.mm \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/dladendorf/workspace/Textables/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/dladendorf/workspace/Textables/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/dladendorf/workspace/Textables/node_modules/react-native/React/Base/RCTWebSocketObserverProtocol.h
